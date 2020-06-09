@@ -14,7 +14,7 @@ Python bindings, you should run:
 
 or
 
-    pip install openpay --udgrade
+    pip install --upgrade openpay
 
 See www.pip-installer.org/en/latest/index.html for instructions on installing pip.
 
